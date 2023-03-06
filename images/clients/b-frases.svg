@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="640" height="480" viewBox="0 0 640 480" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.6</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 431 225.91)" style=""  >
+		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="18" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-156.5" y="28.59" style="stroke-width: 1; font-family: 'Oswald', sans-serif; font-size: 91px; font-style: normal; font-weight: bold; ">FRASES</tspan></text>
+</g>
+<g transform="matrix(0.54 0 0 0.54 143.9 223.9)"  >
+<path style="stroke: rgb(255,255,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  transform=" translate(-160, -160)" d="M 0 19.534 v 231.071 h 179.428 l 83.069 49.862 l 3.293 -49.862 H 320 V 19.534 H 0 z M 300 230.605 h -52.933 l -2.367 35.853 l -59.731 -35.853 H 20 V 39.534 h 280 V 230.605 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(0.54 0 0 0.54 100.7 208.57)"  >
+<rect style="stroke: rgb(255,255,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  x="-20" y="-10" rx="0" ry="0" width="40" height="20" />
+</g>
+<g transform="matrix(0.54 0 0 0.54 143.9 208.57)"  >
+<rect style="stroke: rgb(255,255,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  x="-20" y="-10" rx="0" ry="0" width="40" height="20" />
+</g>
+<g transform="matrix(0.54 0 0 0.54 187.1 208.57)"  >
+<rect style="stroke: rgb(255,255,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  x="-20" y="-10" rx="0" ry="0" width="40" height="20" />
+</g>
+</svg>
