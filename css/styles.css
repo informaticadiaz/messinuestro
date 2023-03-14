@@ -3861,17 +3861,20 @@ img.u-pull-left {
  *
  * ------------------------------------------------------------------- */
 .s-folio {
+
     background-color: var(--color-gray-19);
-    padding-top: var(--vspace-5);
-    padding-bottom: var(--vspace-5);
+    padding-top: var(--vspace-1);
+    padding-bottom: var(--vspace-1);
 }
+
+
 
 /* ------------------------------------------------------------------- 
  * ## bricks masonry 
  * ------------------------------------------------------------------- */
 .bricks {
     max-width: var(--width-wide);
-    margin-top: var(--vspace-3);
+    margin-top: var(--vspace-1);
     margin-bottom: var(--vspace-3);
 }
 
@@ -3955,6 +3958,8 @@ img.u-pull-left {
     left: 50%;
     top: 50%;
 }
+
+
 
 .bricks-wrapper .entry {
     position: relative;
@@ -4122,6 +4127,7 @@ img.u-pull-left {
 
 @media screen and (max-width: 800px) {
     .s-folio {
+
         padding-top: var(--vspace-4);
         padding-bottom: var(--vspace-4_5);
     }
