@@ -2757,7 +2757,7 @@ td:last-child {
 
 .text-pretitle {
     font-weight: 600;
-    font-size: var(--text-sm);
+    font-size: var(--text-xxl);
     text-transform: uppercase;
     letter-spacing: .3em;
     color: var(--color-1);
