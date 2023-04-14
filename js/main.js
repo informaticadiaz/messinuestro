@@ -361,7 +361,7 @@
 
 
 
-        /* const videoLightbox = function () {
+        const videoLightbox = function () {
 
           const videoLink = document.querySelector('.entry__thumb-video');
             if (!videoLink) return;
@@ -378,7 +378,7 @@
  
             });
  
-        }; */
+        };
 
 
         // portfolio lightbox
