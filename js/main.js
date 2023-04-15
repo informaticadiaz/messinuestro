@@ -102,7 +102,7 @@
             siteBody.classList.toggle('menu-is-open');
         });
 
-        /* mainNavWrap.querySelectorAll('.s-header__nav a').forEach(function (link) {
+        mainNavWrap.querySelectorAll('.s-header__nav a').forEach(function (link) {
 
             link.addEventListener("click", function (event) {
 
@@ -113,7 +113,6 @@
                 }
             });
         });
-        */
 
         window.addEventListener('resize', function () {
 
@@ -359,27 +358,25 @@
      * ------------------------------------------------------ */
     const ssLightbox = function () {
 
+        // video lightbox
+        const videoLightbox = function () {
 
-
-        /* const videoLightbox = function () {
-
-          const videoLink = document.querySelector('.entry__thumb-video');
+            const videoLink = document.querySelector('.s-intro__content-video-btn');
             if (!videoLink) return;
- 
+
             videoLink.addEventListener('click', function (event) {
- 
+
                 const vLink = this.getAttribute('href');
                 const iframe = "<iframe src='" + vLink + "' frameborder='0'></iframe>";
- 
+
                 event.preventDefault();
- 
+
                 const instance = basicLightbox.create(iframe);
                 instance.show()
- 
-            });
- 
-        }; */
 
+            });
+
+        };
 
         // portfolio lightbox
         const folioLightbox = function () {
@@ -415,7 +412,7 @@
 
         };
 
-        // videoLightbox();
+        videoLightbox();
         folioLightbox();
 
     }; // ssLightbox
