@@ -3387,7 +3387,7 @@ img.u-pull-left {
  * -------------------------------------------------------------------- */
 .s-intro__bg {
     display: block;
-    background-image: url(../images/hero-bg.jpg);
+    background-image: url(../images/hero-bg.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -3446,7 +3446,7 @@ img.u-pull-left {
 
 .s-intro__content-bg {
     display: block;
-    background-image: url(../images/intro-bg.jpg);
+    background-image: url(../images/intro-bg.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
